@@ -79,7 +79,7 @@ if ( $attendanceSQL ) {
 				
 				<li class="<?php echo $page_name == "holidays" ? 'active' : ''; ?>">
 					<a href="<?php echo BASE_URL; ?>holidays/">
-						<i class="fa fa-calendar-check-o"></i> <span>List Holidays</span>
+						<i class="fa fa-calendar-check-o"></i> <span>STATS</span>
 					</a>
 				</li>
 			<?php } else { ?>
